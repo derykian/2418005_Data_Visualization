@@ -9,7 +9,7 @@ Proyek ini mengeksplorasi dataset IBM HR Analytics Employee Attrition & Performa
 
 Dataset berisi 1.470 baris data karyawan dan variabel terkait usia, departemen, jabatan, pendapatan bulanan, masa kerja, kepuasan kerja, lembur, serta status attrition.
 
-Sumber dataset: [IBM HR Analytics Employee Attrition & Performance](https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction)
+Sumber dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Teknik Visualisasi
 
